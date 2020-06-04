@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mp3/1.mp3</file>
+        <file>mp3/jinbi.mp3</file>
+        <file>mp3/siwang.mp3</file>
+    </qresource>
+</RCC>
